@@ -1,0 +1,86 @@
+#!/usr/local/bin/perl -w
+
+use strict;
+use LWP::Simple;
+
+my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = localtime(time);
+$mon = $mon+1; $year = $year - 100;
+if ($mon < 10) { $mon = "0" . $mon; }
+if ($mday < 10) { $mday = "0" . $mday; }
+if ($hour < 10) { $hour = "0" . $hour; }
+if ($min < 10) { $min = "0" . $min; }
+if ($sec < 10) { $sec = "0" . $sec; }
+my $currentdate = "${year}${mon}${mday}_${hour}${min}${sec}";
+
+my $htmlgraphdate = "${mon}${mday}$year";
+
+########################################################################
+# Parse date files and update summary data file
+######### ###############################################################
+open(INPUT, "<input.txt");
+
+my %ids;
+my $id_cnt;
+my %counts;
+my $total;
+my $threecount;
+
+foreach(<INPUT>) {
+
+	my $flag2 = 0;
+	my $flag3 = 0;
+	undef %counts;
+	chomp;
+	my $id = $_;
+	my @letters = split(//, $id);
+
+	my $loc=0;
+	while($letters[$loc] != 99) {
+		my $a;
+		my $b;
+		my $c;
+		my $d;
+
+
+		print "$a $b $c $d\n";
+
+		$loc +=4;
+	}	
+
+  }
+
+
+print "checksum = $total\n";
+
+sub fuel {
+	my $mass = shift;
+
+	my $fuel = int($mass/3) - 2;
+
+	print "$mass $fuel \n";
+
+	return $fuel;
+}
+
+#foreach my $cnt1 (keys %ids) {
+#  foreach my $cnt2 (keys %ids) {
+#
+#	  my $idx = 0;
+#	  my $diff_cnt = 0;
+#
+#	  while ($idx < scalar @{$ids{$cnt1}}) { 
+#		  my @arr1 = @{$ids{$cnt1}};
+#                  my @arr2 = @{$ids{$cnt2}};
+#            $diff_cnt++ if ($arr1[$idx] ne $arr2[$idx]);
+#	    $idx++;
+#          }
+#
+#	  if ($diff_cnt == 1) {
+#	    print "$cnt1 @{$ids{$cnt1}} \n";
+#            print "$cnt2 @{$ids{$cnt2}} \n";
+#          }
+#  }
+#
+#}
+
+

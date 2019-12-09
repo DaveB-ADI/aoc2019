@@ -1,0 +1,1721 @@
+R997 wire 1 0 0 step = 0
+R997 wire 1 997 0 step = 997
+U849 wire 1 997 0 step = 997
+U849 wire 1 997 849 step = 1846
+R349 wire 1 997 849 step = 1846
+R349 wire 1 1346 849 step = 2195
+U641 wire 1 1346 849 step = 2195
+U641 wire 1 1346 1490 step = 2836
+R581 wire 1 1346 1490 step = 2836
+R581 wire 1 1927 1490 step = 3417
+D39 wire 1 1927 1490 step = 3417
+D39 wire 1 1927 1451 step = 3456
+R285 wire 1 1927 1451 step = 3456
+R285 wire 1 2212 1451 step = 3741
+U139 wire 1 2212 1451 step = 3741
+U139 wire 1 2212 1590 step = 3880
+R455 wire 1 2212 1590 step = 3880
+R455 wire 1 2667 1590 step = 4335
+D346 wire 1 2667 1590 step = 4335
+D346 wire 1 2667 1244 step = 4681
+L965 wire 1 2667 1244 step = 4681
+L965 wire 1 1702 1244 step = 5646
+D707 wire 1 1702 1244 step = 5646
+D707 wire 1 1702 537 step = 6353
+R393 wire 1 1702 537 step = 6353
+R393 wire 1 2095 537 step = 6746
+D302 wire 1 2095 537 step = 6746
+D302 wire 1 2095 235 step = 7048
+L263 wire 1 2095 235 step = 7048
+L263 wire 1 1832 235 step = 7311
+U58 wire 1 1832 235 step = 7311
+U58 wire 1 1832 293 step = 7369
+R950 wire 1 1832 293 step = 7369
+  -Been here before 2095 293 7632
+R950 wire 1 2782 293 step = 8319
+U731 wire 1 2782 293 step = 8319
+U731 wire 1 2782 1024 step = 9050
+R858 wire 1 2782 1024 step = 9050
+R858 wire 1 3640 1024 step = 9908
+D748 wire 1 3640 1024 step = 9908
+D748 wire 1 3640 276 step = 10656
+R302 wire 1 3640 276 step = 10656
+R302 wire 1 3942 276 step = 10958
+U211 wire 1 3942 276 step = 10958
+U211 wire 1 3942 487 step = 11169
+R588 wire 1 3942 487 step = 11169
+R588 wire 1 4530 487 step = 11757
+D441 wire 1 4530 487 step = 11757
+D441 wire 1 4530 46 step = 12198
+L153 wire 1 4530 46 step = 12198
+L153 wire 1 4377 46 step = 12351
+D417 wire 1 4377 46 step = 12351
+D417 wire 1 4377 -371 step = 12768
+R861 wire 1 4377 -371 step = 12768
+R861 wire 1 5238 -371 step = 13629
+U775 wire 1 5238 -371 step = 13629
+U775 wire 1 5238 404 step = 14404
+R777 wire 1 5238 404 step = 14404
+R777 wire 1 6015 404 step = 15181
+U204 wire 1 6015 404 step = 15181
+U204 wire 1 6015 608 step = 15385
+R929 wire 1 6015 608 step = 15385
+R929 wire 1 6944 608 step = 16314
+U868 wire 1 6944 608 step = 16314
+U868 wire 1 6944 1476 step = 17182
+L62 wire 1 6944 1476 step = 17182
+L62 wire 1 6882 1476 step = 17244
+U163 wire 1 6882 1476 step = 17244
+U163 wire 1 6882 1639 step = 17407
+R841 wire 1 6882 1639 step = 17407
+R841 wire 1 7723 1639 step = 18248
+D214 wire 1 7723 1639 step = 18248
+D214 wire 1 7723 1425 step = 18462
+L648 wire 1 7723 1425 step = 18462
+L648 wire 1 7075 1425 step = 19110
+U626 wire 1 7075 1425 step = 19110
+  -Been here before 7075 1639 19324
+U626 wire 1 7075 2051 step = 19736
+R501 wire 1 7075 2051 step = 19736
+R501 wire 1 7576 2051 step = 20237
+D751 wire 1 7576 2051 step = 20237
+  -Been here before 7576 1639 20649
+  -Been here before 7576 1425 20863
+D751 wire 1 7576 1300 step = 20988
+L641 wire 1 7576 1300 step = 20988
+  -Been here before 6944 1300 21620
+L641 wire 1 6935 1300 step = 21629
+D961 wire 1 6935 1300 step = 21629
+  -Been here before 6935 608 22321
+D961 wire 1 6935 339 step = 22590
+L23 wire 1 6935 339 step = 22590
+L23 wire 1 6912 339 step = 22613
+D430 wire 1 6912 339 step = 22613
+D430 wire 1 6912 -91 step = 23043
+L73 wire 1 6912 -91 step = 23043
+L73 wire 1 6839 -91 step = 23116
+D692 wire 1 6839 -91 step = 23116
+D692 wire 1 6839 -783 step = 23808
+R49 wire 1 6839 -783 step = 23808
+R49 wire 1 6888 -783 step = 23857
+U334 wire 1 6888 -783 step = 23857
+U334 wire 1 6888 -449 step = 24191
+L601 wire 1 6888 -449 step = 24191
+  -Been here before 6839 -449 24240
+L601 wire 1 6287 -449 step = 24792
+U996 wire 1 6287 -449 step = 24792
+U996 wire 1 6287 547 step = 25788
+R444 wire 1 6287 547 step = 25788
+R444 wire 1 6731 547 step = 26232
+D658 wire 1 6731 547 step = 26232
+D658 wire 1 6731 -111 step = 26890
+R633 wire 1 6731 -111 step = 26890
+  -Been here before 6839 -111 26998
+R633 wire 1 7364 -111 step = 27523
+D30 wire 1 7364 -111 step = 27523
+D30 wire 1 7364 -141 step = 27553
+L861 wire 1 7364 -141 step = 27553
+  -Been here before 6839 -141 28078
+L861 wire 1 6503 -141 step = 28414
+D811 wire 1 6503 -141 step = 28414
+  -Been here before 6503 -449 28722
+D811 wire 1 6503 -952 step = 29225
+R10 wire 1 6503 -952 step = 29225
+R10 wire 1 6513 -952 step = 29235
+D394 wire 1 6513 -952 step = 29235
+D394 wire 1 6513 -1346 step = 29629
+R9 wire 1 6513 -1346 step = 29629
+R9 wire 1 6522 -1346 step = 29638
+U227 wire 1 6522 -1346 step = 29638
+U227 wire 1 6522 -1119 step = 29865
+L848 wire 1 6522 -1119 step = 29865
+  -Been here before 6513 -1119 29874
+L848 wire 1 5674 -1119 step = 30713
+U420 wire 1 5674 -1119 step = 30713
+U420 wire 1 5674 -699 step = 31133
+L378 wire 1 5674 -699 step = 31133
+L378 wire 1 5296 -699 step = 31511
+D622 wire 1 5296 -699 step = 31511
+D622 wire 1 5296 -1321 step = 32133
+L501 wire 1 5296 -1321 step = 32133
+L501 wire 1 4795 -1321 step = 32634
+U397 wire 1 4795 -1321 step = 32634
+U397 wire 1 4795 -924 step = 33031
+R855 wire 1 4795 -924 step = 33031
+  -Been here before 5296 -924 33532
+R855 wire 1 5650 -924 step = 33886
+U369 wire 1 5650 -924 step = 33886
+  -Been here before 5650 -699 34111
+U369 wire 1 5650 -555 step = 34255
+R615 wire 1 5650 -555 step = 34255
+R615 wire 1 6265 -555 step = 34870
+U591 wire 1 6265 -555 step = 34870
+U591 wire 1 6265 36 step = 35461
+L674 wire 1 6265 36 step = 35461
+L674 wire 1 5591 36 step = 36135
+D166 wire 1 5591 36 step = 36135
+D166 wire 1 5591 -130 step = 36301
+L181 wire 1 5591 -130 step = 36301
+L181 wire 1 5410 -130 step = 36482
+U61 wire 1 5410 -130 step = 36482
+U61 wire 1 5410 -69 step = 36543
+L224 wire 1 5410 -69 step = 36543
+  -Been here before 5238 -69 36715
+L224 wire 1 5186 -69 step = 36767
+U463 wire 1 5186 -69 step = 36767
+U463 wire 1 5186 394 step = 37230
+L203 wire 1 5186 394 step = 37230
+L203 wire 1 4983 394 step = 37433
+U594 wire 1 4983 394 step = 37433
+U594 wire 1 4983 988 step = 38027
+R93 wire 1 4983 988 step = 38027
+R93 wire 1 5076 988 step = 38120
+U614 wire 1 5076 988 step = 38120
+U614 wire 1 5076 1602 step = 38734
+L959 wire 1 5076 1602 step = 38734
+L959 wire 1 4117 1602 step = 39693
+U198 wire 1 4117 1602 step = 39693
+U198 wire 1 4117 1800 step = 39891
+L689 wire 1 4117 1800 step = 39891
+L689 wire 1 3428 1800 step = 40580
+D229 wire 1 3428 1800 step = 40580
+D229 wire 1 3428 1571 step = 40809
+L674 wire 1 3428 1571 step = 40809
+L674 wire 1 2754 1571 step = 41483
+U255 wire 1 2754 1571 step = 41483
+U255 wire 1 2754 1826 step = 41738
+R843 wire 1 2754 1826 step = 41738
+R843 wire 1 3597 1826 step = 42581
+D382 wire 1 3597 1826 step = 42581
+  -Been here before 3597 1800 42607
+D382 wire 1 3597 1444 step = 42963
+R538 wire 1 3597 1444 step = 42963
+R538 wire 1 4135 1444 step = 43501
+U923 wire 1 4135 1444 step = 43501
+  -Been here before 4135 1602 43659
+U923 wire 1 4135 2367 step = 44424
+L960 wire 1 4135 2367 step = 44424
+L960 wire 1 3175 2367 step = 45384
+D775 wire 1 3175 2367 step = 45384
+  -Been here before 3175 1826 45925
+D775 wire 1 3175 1592 step = 46159
+L879 wire 1 3175 1592 step = 46159
+  -Been here before 2754 1592 46580
+L879 wire 1 2296 1592 step = 47038
+U97 wire 1 2296 1592 step = 47038
+U97 wire 1 2296 1689 step = 47135
+R137 wire 1 2296 1689 step = 47135
+R137 wire 1 2433 1689 step = 47272
+U665 wire 1 2433 1689 step = 47272
+U665 wire 1 2433 2354 step = 47937
+L340 wire 1 2433 2354 step = 47937
+L340 wire 1 2093 2354 step = 48277
+D941 wire 1 2093 2354 step = 48277
+  -Been here before 2093 1451 49180
+D941 wire 1 2093 1413 step = 49218
+L775 wire 1 2093 1413 step = 49218
+  -Been here before 1346 1413 49965
+L775 wire 1 1318 1413 step = 49993
+D57 wire 1 1318 1413 step = 49993
+D57 wire 1 1318 1356 step = 50050
+R852 wire 1 1318 1356 step = 50050
+  -Been here before 1346 1356 50078
+R852 wire 1 2170 1356 step = 50902
+D167 wire 1 2170 1356 step = 50902
+  -Been here before 2170 1244 51014
+D167 wire 1 2170 1189 step = 51069
+R980 wire 1 2170 1189 step = 51069
+R980 wire 1 3150 1189 step = 52049
+U704 wire 1 3150 1189 step = 52049
+  -Been here before 3150 1571 52431
+  -Been here before 3150 1592 52452
+  -Been here before 3150 1826 52686
+U704 wire 1 3150 1893 step = 52753
+L843 wire 1 3150 1893 step = 52753
+  -Been here before 2433 1893 53470
+L843 wire 1 2307 1893 step = 53596
+U989 wire 1 2307 1893 step = 53596
+  -Been here before 2307 2354 54057
+U989 wire 1 2307 2882 step = 54585
+L611 wire 1 2307 2882 step = 54585
+L611 wire 1 1696 2882 step = 55196
+D32 wire 1 1696 2882 step = 55196
+D32 wire 1 1696 2850 step = 55228
+L724 wire 1 1696 2850 step = 55228
+L724 wire 1 972 2850 step = 55952
+D790 wire 1 972 2850 step = 55952
+D790 wire 1 972 2060 step = 56742
+L32 wire 1 972 2060 step = 56742
+L32 wire 1 940 2060 step = 56774
+U984 wire 1 940 2060 step = 56774
+U984 wire 1 940 3044 step = 57758
+L39 wire 1 940 3044 step = 57758
+L39 wire 1 901 3044 step = 57797
+U671 wire 1 901 3044 step = 57797
+U671 wire 1 901 3715 step = 58468
+L994 wire 1 901 3715 step = 58468
+L994 wire 1 -93 3715 step = 59462
+U399 wire 1 -93 3715 step = 59462
+U399 wire 1 -93 4114 step = 59861
+R475 wire 1 -93 4114 step = 59861
+R475 wire 1 382 4114 step = 60336
+D85 wire 1 382 4114 step = 60336
+D85 wire 1 382 4029 step = 60421
+L322 wire 1 382 4029 step = 60421
+L322 wire 1 60 4029 step = 60743
+D936 wire 1 60 4029 step = 60743
+  -Been here before 60 3715 61057
+D936 wire 1 60 3093 step = 61679
+R117 wire 1 60 3093 step = 61679
+R117 wire 1 177 3093 step = 61796
+D261 wire 1 177 3093 step = 61796
+D261 wire 1 177 2832 step = 62057
+R705 wire 1 177 2832 step = 62057
+R705 wire 1 882 2832 step = 62762
+D696 wire 1 882 2832 step = 62762
+D696 wire 1 882 2136 step = 63458
+L523 wire 1 882 2136 step = 63458
+L523 wire 1 359 2136 step = 63981
+D433 wire 1 359 2136 step = 63981
+D433 wire 1 359 1703 step = 64414
+L239 wire 1 359 1703 step = 64414
+L239 wire 1 120 1703 step = 64653
+U477 wire 1 120 1703 step = 64653
+U477 wire 1 120 2180 step = 65130
+L247 wire 1 120 2180 step = 65130
+L247 wire 1 -127 2180 step = 65377
+D465 wire 1 -127 2180 step = 65377
+D465 wire 1 -127 1715 step = 65842
+R560 wire 1 -127 1715 step = 65842
+  -Been here before 120 1715 66089
+  -Been here before 359 1715 66328
+R560 wire 1 433 1715 step = 66402
+D902 wire 1 433 1715 step = 66402
+D902 wire 1 433 813 step = 67304
+L589 wire 1 433 813 step = 67304
+L589 wire 1 -156 813 step = 67893
+U682 wire 1 -156 813 step = 67893
+U682 wire 1 -156 1495 step = 68575
+R645 wire 1 -156 1495 step = 68575
+  -Been here before 433 1495 69164
+R645 wire 1 489 1495 step = 69220
+U376 wire 1 489 1495 step = 69220
+U376 wire 1 489 1871 step = 69596
+L989 wire 1 489 1871 step = 69596
+  -Been here before 359 1871 69726
+  -Been here before 120 1871 69965
+  -Been here before -127 1871 70212
+L989 wire 1 -500 1871 step = 70585
+D121 wire 1 -500 1871 step = 70585
+D121 wire 1 -500 1750 step = 70706
+L215 wire 1 -500 1750 step = 70706
+L215 wire 1 -715 1750 step = 70921
+U514 wire 1 -715 1750 step = 70921
+U514 wire 1 -715 2264 step = 71435
+R519 wire 1 -715 2264 step = 71435
+R519 wire 1 -196 2264 step = 71954
+U407 wire 1 -196 2264 step = 71954
+U407 wire 1 -196 2671 step = 72361
+L218 wire 1 -196 2671 step = 72361
+L218 wire 1 -414 2671 step = 72579
+D444 wire 1 -414 2671 step = 72579
+  -Been here before -414 2264 72986
+D444 wire 1 -414 2227 step = 73023
+R704 wire 1 -414 2227 step = 73023
+R704 wire 1 290 2227 step = 73727
+D436 wire 1 290 2227 step = 73727
+  -Been here before 290 1871 74083
+D436 wire 1 290 1791 step = 74163
+L680 wire 1 290 1791 step = 74163
+  -Been here before 120 1791 74333
+  -Been here before -127 1791 74580
+L680 wire 1 -390 1791 step = 74843
+U759 wire 1 -390 1791 step = 74843
+  -Been here before -390 1871 74923
+  -Been here before -390 2227 75279
+  -Been here before -390 2264 75316
+U759 wire 1 -390 2550 step = 75602
+R937 wire 1 -390 2550 step = 75602
+  -Been here before -196 2550 75796
+R937 wire 1 547 2550 step = 76539
+U400 wire 1 547 2550 step = 76539
+  -Been here before 547 2832 76821
+U400 wire 1 547 2950 step = 76939
+R533 wire 1 547 2950 step = 76939
+  -Been here before 940 2950 77332
+R533 wire 1 1080 2950 step = 77472
+D860 wire 1 1080 2950 step = 77472
+  -Been here before 1080 2850 77572
+D860 wire 1 1080 2090 step = 78332
+R782 wire 1 1080 2090 step = 78332
+R782 wire 1 1862 2090 step = 79114
+D233 wire 1 1862 2090 step = 79114
+D233 wire 1 1862 1857 step = 79347
+R840 wire 1 1862 1857 step = 79347
+  -Been here before 2093 1857 79578
+  -Been here before 2433 1857 79918
+R840 wire 1 2702 1857 step = 80187
+D549 wire 1 2702 1857 step = 80187
+  -Been here before 2702 1592 80452
+D549 wire 1 2702 1308 step = 80736
+L508 wire 1 2702 1308 step = 80736
+  -Been here before 2667 1308 80771
+L508 wire 1 2194 1308 step = 81244
+U380 wire 1 2194 1308 step = 81244
+  -Been here before 2194 1451 81387
+U380 wire 1 2194 1688 step = 81624
+L992 wire 1 2194 1688 step = 81624
+  -Been here before 2093 1688 81725
+L992 wire 1 1202 1688 step = 82616
+U406 wire 1 1202 1688 step = 82616
+  -Been here before 1202 2090 83018
+U406 wire 1 1202 2094 step = 83022
+L213 wire 1 1202 2094 step = 83022
+  -Been here before 1080 2094 83144
+L213 wire 1 989 2094 step = 83235
+D403 wire 1 989 2094 step = 83235
+D403 wire 1 989 1691 step = 83638
+L413 wire 1 989 1691 step = 83638
+L413 wire 1 576 1691 step = 84051
+D532 wire 1 576 1691 step = 84051
+D532 wire 1 576 1159 step = 84583
+L429 wire 1 576 1159 step = 84583
+  -Been here before 433 1159 84726
+L429 wire 1 147 1159 step = 85012
+U186 wire 1 147 1159 step = 85012
+U186 wire 1 147 1345 step = 85198
+R262 wire 1 147 1345 step = 85198
+R262 wire 1 409 1345 step = 85460
+U313 wire 1 409 1345 step = 85460
+  -Been here before 409 1495 85610
+U313 wire 1 409 1658 step = 85773
+L913 wire 1 409 1658 step = 85773
+L913 wire 1 -504 1658 step = 86686
+U873 wire 1 -504 1658 step = 86686
+  -Been here before -504 1750 86778
+  -Been here before -504 2264 87292
+U873 wire 1 -504 2531 step = 87559
+L838 wire 1 -504 2531 step = 87559
+L838 wire 1 -1342 2531 step = 88397
+D882 wire 1 -1342 2531 step = 88397
+D882 wire 1 -1342 1649 step = 89279
+R851 wire 1 -1342 1649 step = 89279
+R851 wire 1 -491 1649 step = 90130
+U70 wire 1 -491 1649 step = 90130
+  -Been here before -491 1658 90139
+U70 wire 1 -491 1719 step = 90200
+R185 wire 1 -491 1719 step = 90200
+R185 wire 1 -306 1719 step = 90385
+D131 wire 1 -306 1719 step = 90385
+  -Been here before -306 1658 90446
+D131 wire 1 -306 1588 step = 90516
+R945 wire 1 -306 1588 step = 90516
+  -Been here before 409 1588 91231
+  -Been here before 433 1588 91255
+  -Been here before 489 1588 91311
+  -Been here before 576 1588 91398
+R945 wire 1 639 1588 step = 91461
+D595 wire 1 639 1588 step = 91461
+D595 wire 1 639 993 step = 92056
+L330 wire 1 639 993 step = 92056
+  -Been here before 433 993 92262
+L330 wire 1 309 993 step = 92386
+U446 wire 1 309 993 step = 92386
+  -Been here before 309 1159 92552
+  -Been here before 309 1345 92738
+U446 wire 1 309 1439 step = 92832
+R88 wire 1 309 1439 step = 92832
+R88 wire 1 397 1439 step = 92920
+D243 wire 1 397 1439 step = 92920
+  -Been here before 397 1345 93014
+D243 wire 1 397 1196 step = 93163
+L561 wire 1 397 1196 step = 93163
+  -Been here before 309 1196 93251
+  -Been here before 147 1196 93413
+  -Been here before -156 1196 93716
+L561 wire 1 -164 1196 step = 93724
+D952 wire 1 -164 1196 step = 93724
+D952 wire 1 -164 244 step = 94676
+R982 wire 1 -164 244 step = 94676
+R982 wire 1 818 244 step = 95658
+D395 wire 1 818 244 step = 95658
+  -Been here before 818 0 95902
+D395 wire 1 818 -151 step = 96053
+L708 wire 1 818 -151 step = 96053
+L708 wire 1 110 -151 step = 96761
+U459 wire 1 110 -151 step = 96761
+  -Been here before 110 0 96912
+  -Been here before 110 244 97156
+U459 wire 1 110 308 step = 97220
+L82 wire 1 110 308 step = 97220
+L82 wire 1 28 308 step = 97302
+D885 wire 1 28 308 step = 97302
+  -Been here before 28 244 97366
+  -Been here before 28 0 97610
+D885 wire 1 28 -577 step = 98187
+L996 wire 1 28 -577 step = 98187
+L996 wire 1 -968 -577 step = 99183
+U955 wire 1 -968 -577 step = 99183
+U955 wire 1 -968 378 step = 100138
+L406 wire 1 -968 378 step = 100138
+L406 wire 1 -1374 378 step = 100544
+U697 wire 1 -1374 378 step = 100544
+U697 wire 1 -1374 1075 step = 101241
+L183 wire 1 -1374 1075 step = 101241
+L183 wire 1 -1557 1075 step = 101424
+U266 wire 1 -1557 1075 step = 101424
+U266 wire 1 -1557 1341 step = 101690
+L878 wire 1 -1557 1341 step = 101690
+L878 wire 1 -2435 1341 step = 102568
+D839 wire 1 -2435 1341 step = 102568
+D839 wire 1 -2435 502 step = 103407
+R843 wire 1 -2435 502 step = 103407
+R843 wire 1 -1592 502 step = 104250
+D891 wire 1 -1592 502 step = 104250
+D891 wire 1 -1592 -389 step = 105141
+R118 wire 1 -1592 -389 step = 105141
+R118 wire 1 -1474 -389 step = 105259
+U772 wire 1 -1474 -389 step = 105259
+U772 wire 1 -1474 383 step = 106031
+R590 wire 1 -1474 383 step = 106031
+  -Been here before -1374 383 106131
+R590 wire 1 -884 383 step = 106621
+D376 wire 1 -884 383 step = 106621
+D376 wire 1 -884 7 step = 106997
+L500 wire 1 -884 7 step = 106997
+  -Been here before -968 7 107081
+L500 wire 1 -1384 7 step = 107497
+U370 wire 1 -1384 7 step = 107497
+U370 wire 1 -1384 377 step = 107867
+R607 wire 1 -1384 377 step = 107867
+  -Been here before -968 377 108283
+  -Been here before -884 377 108367
+R607 wire 1 -777 377 step = 108474
+D12 wire 1 -777 377 step = 108474
+D12 wire 1 -777 365 step = 108486
+L310 wire 1 -777 365 step = 108486
+  -Been here before -884 365 108593
+  -Been here before -968 365 108677
+L310 wire 1 -1087 365 step = 108796
+D436 wire 1 -1087 365 step = 108796
+  -Been here before -1087 7 109154
+D436 wire 1 -1087 -71 step = 109232
+L602 wire 1 -1087 -71 step = 109232
+  -Been here before -1474 -71 109619
+  -Been here before -1592 -71 109737
+L602 wire 1 -1689 -71 step = 109834
+D365 wire 1 -1689 -71 step = 109834
+D365 wire 1 -1689 -436 step = 110199
+R886 wire 1 -1689 -436 step = 110199
+  -Been here before -968 -436 110920
+R886 wire 1 -803 -436 step = 111085
+U239 wire 1 -803 -436 step = 111085
+U239 wire 1 -803 -197 step = 111324
+L471 wire 1 -803 -197 step = 111324
+  -Been here before -968 -197 111489
+L471 wire 1 -1274 -197 step = 111795
+D418 wire 1 -1274 -197 step = 111795
+  -Been here before -1274 -436 112034
+D418 wire 1 -1274 -615 step = 112213
+L122 wire 1 -1274 -615 step = 112213
+L122 wire 1 -1396 -615 step = 112335
+U18 wire 1 -1396 -615 step = 112335
+U18 wire 1 -1396 -597 step = 112353
+R879 wire 1 -1396 -597 step = 112353
+  -Been here before -1274 -597 112475
+R879 wire 1 -517 -597 step = 113232
+D693 wire 1 -517 -597 step = 113232
+D693 wire 1 -517 -1290 step = 113925
+R856 wire 1 -517 -1290 step = 113925
+R856 wire 1 339 -1290 step = 114781
+U848 wire 1 339 -1290 step = 114781
+U848 wire 1 339 -442 step = 115629
+L657 wire 1 339 -442 step = 115629
+  -Been here before 28 -442 115940
+L657 wire 1 -318 -442 step = 116286
+D911 wire 1 -318 -442 step = 116286
+  -Been here before -318 -577 116421
+  -Been here before -318 -1290 117134
+D911 wire 1 -318 -1353 step = 117197
+L63 wire 1 -318 -1353 step = 117197
+L63 wire 1 -381 -1353 step = 117260
+U431 wire 1 -381 -1353 step = 117260
+  -Been here before -381 -1290 117323
+U431 wire 1 -381 -922 step = 117691
+R41 wire 1 -381 -922 step = 117691
+R41 wire 1 -340 -922 step = 117732
+U752 wire 1 -340 -922 step = 117732
+  -Been here before -340 -577 118077
+U752 wire 1 -340 -170 step = 118484
+R919 wire 1 -340 -170 step = 118484
+  -Been here before 28 -170 118852
+R919 wire 1 579 -170 step = 119403
+U323 wire 1 579 -170 step = 119403
+  -Been here before 579 -151 119422
+  -Been here before 579 0 119573
+U323 wire 1 579 153 step = 119726
+L61 wire 1 579 153 step = 119726
+L61 wire 1 518 153 step = 119787
+D263 wire 1 518 153 step = 119787
+  -Been here before 518 0 119940
+D263 wire 1 518 -110 step = 120050
+L370 wire 1 518 -110 step = 120050
+L370 wire 1 148 -110 step = 120420
+D85 wire 1 148 -110 step = 120420
+  -Been here before 148 -151 120461
+  -Been here before 148 -170 120480
+D85 wire 1 148 -195 step = 120505
+R929 wire 1 148 -195 step = 120505
+R929 wire 1 1077 -195 step = 121434
+D213 wire 1 1077 -195 step = 121434
+D213 wire 1 1077 -408 step = 121647
+R350 wire 1 1077 -408 step = 121647
+R350 wire 1 1427 -408 step = 121997
+U818 wire 1 1427 -408 step = 121997
+U818 wire 1 1427 410 step = 122815
+R458 wire 1 1427 410 step = 122815
+R458 wire 1 1885 410 step = 123273
+D912 wire 1 1885 410 step = 123273
+  -Been here before 1885 293 123390
+  -Been here before 1885 235 123448
+D912 wire 1 1885 -502 step = 124185
+R509 wire 1 1885 -502 step = 124185
+R509 wire 1 2394 -502 step = 124694
+U394 wire 1 2394 -502 step = 124694
+U394 wire 1 2394 -108 step = 125088
+L734 wire 1 2394 -108 step = 125088
+  -Been here before 1885 -108 125597
+L734 wire 1 1660 -108 step = 125822
+U49 wire 1 1660 -108 step = 125822
+U49 wire 1 1660 -59 step = 125871
+R810 wire 1 1660 -59 step = 125871
+  -Been here before 1885 -59 126096
+R810 wire 1 2470 -59 step = 126681
+D87 wire 1 2470 -59 step = 126681
+D87 wire 1 2470 -146 step = 126768
+L870 wire 1 2470 -146 step = 126768
+  -Been here before 2394 -146 126844
+  -Been here before 1885 -146 127353
+L870 wire 1 1600 -146 step = 127638
+U658 wire 1 1600 -146 step = 127638
+  -Been here before 1600 410 128194
+U658 wire 1 1600 512 step = 128296
+R499 wire 1 1600 512 step = 128296
+  -Been here before 2095 512 128791
+R499 wire 1 2099 512 step = 128795
+U550 wire 1 2099 512 step = 128795
+U550 wire 1 2099 1062 step = 129345
+L402 wire 1 2099 1062 step = 129345
+  -Been here before 1702 1062 129742
+L402 wire 1 1697 1062 step = 129747
+U244 wire 1 1697 1062 step = 129747
+U244 wire 1 1697 1306 step = 129991
+L112 wire 1 1697 1306 step = 129991
+L112 wire 1 1585 1306 step = 130103
+U859 wire 1 1585 1306 step = 130103
+  -Been here before 1585 1356 130153
+  -Been here before 1585 1413 130210
+  -Been here before 1585 1490 130287
+  -Been here before 1585 1688 130485
+  -Been here before 1585 2090 130887
+U859 wire 1 1585 2165 step = 130962
+R836 wire 1 1585 2165 step = 130962
+  -Been here before 2093 2165 131470
+  -Been here before 2307 2165 131684
+R836 wire 1 2421 2165 step = 131798
+U951 wire 1 2421 2165 step = 131798
+  -Been here before 2421 2354 131987
+U951 wire 1 2421 3116 step = 132749
+R222 wire 1 2421 3116 step = 132749
+R222 wire 1 2643 3116 step = 132971
+D944 wire 1 2643 3116 step = 132971
+D944 wire 1 2643 2172 step = 133915
+L691 wire 1 2643 2172 step = 133915
+  -Been here before 2433 2172 134125
+  -Been here before 2421 2172 134137
+  -Been here before 2307 2172 134251
+  -Been here before 2093 2172 134465
+L691 wire 1 1952 2172 step = 134606
+D731 wire 1 1952 2172 step = 134606
+  -Been here before 1952 2165 134613
+  -Been here before 1952 1857 134921
+  -Been here before 1952 1688 135090
+  -Been here before 1952 1451 135327
+D731 wire 1 1952 1441 step = 135337
+R742 wire 1 1952 1441 step = 135337
+  -Been here before 2093 1441 135478
+  -Been here before 2194 1441 135579
+  -Been here before 2667 1441 136052
+R742 wire 1 2694 1441 step = 136079
+D52 wire 1 2694 1441 step = 136079
+D52 wire 1 2694 1389 step = 136131
+R984 wire 1 2694 1389 step = 136131
+  -Been here before 2702 1389 136139
+  -Been here before 3150 1389 136587
+R984 wire 1 3678 1389 step = 137115
+D453 wire 1 3678 1389 step = 137115
+D453 wire 1 3678 936 step = 137568
+L514 wire 1 3678 936 step = 137568
+  -Been here before 3640 936 137606
+L514 wire 1 3164 936 step = 138082
+U692 wire 1 3164 936 step = 138082
+  -Been here before 3164 1024 138170
+  -Been here before 3164 1389 138535
+  -Been here before 3164 1571 138717
+  -Been here before 3164 1592 138738
+U692 wire 1 3164 1628 step = 138774
+R812 wire 1 3164 1628 step = 138774
+  -Been here before 3175 1628 138785
+  -Been here before 3428 1628 139038
+  -Been here before 3597 1628 139207
+R812 wire 1 3976 1628 step = 139586
+U35 wire 1 3976 1628 step = 139586
+U35 wire 1 3976 1663 step = 139621
+L844 wire 1 3976 1663 step = 139621
+  -Been here before 3597 1663 140000
+  -Been here before 3428 1663 140169
+  -Been here before 3175 1663 140422
+  -Been here before 3150 1663 140447
+L844 wire 1 3132 1663 step = 140465
+D177 wire 1 3132 1663 step = 140465
+  -Been here before 3132 1592 140536
+  -Been here before 3132 1571 140557
+D177 wire 1 3132 1486 step = 140642
+L110 wire 1 3132 1486 step = 140642
+L110 wire 1 3022 1486 step = 140752
+D22 wire 1 3022 1486 step = 140752
+D22 wire 1 3022 1464 step = 140774
+R61 wire 1 3022 1464 step = 140774
+R61 wire 1 3083 1464 step = 140835
+U253 wire 1 3083 1464 step = 140835
+  -Been here before 3083 1486 140857
+  -Been here before 3083 1571 140942
+  -Been here before 3083 1592 140963
+U253 wire 1 3083 1717 step = 141088
+R618 wire 1 3083 1717 step = 141088
+  -Been here before 3150 1717 141155
+  -Been here before 3175 1717 141180
+  -Been here before 3428 1717 141433
+  -Been here before 3597 1717 141602
+R618 wire 1 3701 1717 step = 141706
+D51 wire 1 3701 1717 step = 141706
+D51 wire 1 3701 1666 step = 141757
+R163 wire 1 3701 1666 step = 141757
+R163 wire 1 3864 1666 step = 141920
+U835 wire 1 3864 1666 step = 141920
+  -Been here before 3864 1800 142054
+  -Been here before 3864 2367 142621
+U835 wire 1 3864 2501 step = 142755
+R704 wire 1 3864 2501 step = 142755
+R704 wire 1 4568 2501 step = 143459
+U148 wire 1 4568 2501 step = 143459
+U148 wire 1 4568 2649 step = 143607
+R766 wire 1 4568 2649 step = 143607
+R766 wire 1 5334 2649 step = 144373
+U297 wire 1 5334 2649 step = 144373
+U297 wire 1 5334 2946 step = 144670
+R457 wire 1 5334 2946 step = 144670
+R457 wire 1 5791 2946 step = 145127
+D170 wire 1 5791 2946 step = 145127
+D170 wire 1 5791 2776 step = 145297
+L104 wire 1 5791 2776 step = 145297
+L104 wire 1 5687 2776 step = 145401
+D441 wire 1 5687 2776 step = 145401
+D441 wire 1 5687 2335 step = 145842
+R330 wire 1 5687 2335 step = 145842
+R330 wire 1 6017 2335 step = 146172
+D330 wire 1 6017 2335 step = 146172
+D330 wire 1 6017 2005 step = 146502
+R989 wire 1 6017 2005 step = 146502
+R989 wire 1 7006 2005 step = 147491
+D538 wire 1 7006 2005 step = 147491
+  -Been here before 7006 1639 147857
+D538 wire 1 7006 1467 step = 148029
+R668 wire 1 7006 1467 step = 148029
+  -Been here before 7075 1467 148098
+  -Been here before 7576 1467 148599
+R668 wire 1 7674 1467 step = 148697
+D811 wire 1 7674 1467 step = 148697
+  -Been here before 7674 1425 148739
+D811 wire 1 7674 656 step = 149508
+R62 wire 1 7674 656 step = 149508
+R62 wire 1 7736 656 step = 149570
+D67 wire 1 7736 656 step = 149570
+D67 wire 1 7736 589 step = 149637
+L470 wire 1 7736 589 step = 149637
+L470 wire 1 7266 589 step = 150107
+D526 wire 1 7266 589 step = 150107
+D526 wire 1 7266 63 step = 150633
+R788 wire 1 7266 63 step = 150633
+R788 wire 1 8054 63 step = 151421
+U376 wire 1 8054 63 step = 151421
+U376 wire 1 8054 439 step = 151797
+R708 wire 1 8054 439 step = 151797
+R708 wire 1 8762 439 step = 152505
+U3 wire 1 8762 439 step = 152505
+U3 wire 1 8762 442 step = 152508
+R961 wire 1 8762 442 step = 152508
+R961 wire 1 9723 442 step = 153469
+Done wire 1
+L1009 wire 2 0 0 step = 0
+L1009 wire 2 -1009 0 step = 1009
+D381 wire 2 -1009 0 step = 1009
+D381 wire 2 -1009 -381 step = 1390
+R970 wire 2 -1009 -381 step = 1390
+R970 wire 2 -39 -381 step = 2360
+U429 wire 2 -39 -381 step = 2360
+  -Been here before -39 0 2741
+U429 wire 2 -39 48 step = 2789
+L230 wire 2 -39 48 step = 2789
+L230 wire 2 -269 48 step = 3019
+D909 wire 2 -269 48 step = 3019
+  -Been here before -269 0 3067
+  -Been here before -269 -381 3448
+D909 wire 2 -269 -861 step = 3928
+R516 wire 2 -269 -861 step = 3928
+R516 wire 2 247 -861 step = 4444
+D957 wire 2 247 -861 step = 4444
+D957 wire 2 247 -1818 step = 5401
+R981 wire 2 247 -1818 step = 5401
+R981 wire 2 1228 -1818 step = 6382
+U609 wire 2 1228 -1818 step = 6382
+U609 wire 2 1228 -1209 step = 6991
+L480 wire 2 1228 -1209 step = 6991
+L480 wire 2 748 -1209 step = 7471
+D139 wire 2 748 -1209 step = 7471
+D139 wire 2 748 -1348 step = 7610
+L861 wire 2 748 -1348 step = 7610
+  -Been here before 247 -1348 8111
+L861 wire 2 -113 -1348 step = 8471
+U168 wire 2 -113 -1348 step = 8471
+U168 wire 2 -113 -1180 step = 8639
+L48 wire 2 -113 -1180 step = 8639
+L48 wire 2 -161 -1180 step = 8687
+U620 wire 2 -161 -1180 step = 8687
+  -Been here before -161 -861 9006
+U620 wire 2 -161 -560 step = 9307
+R531 wire 2 -161 -560 step = 9307
+R531 wire 2 370 -560 step = 9838
+D466 wire 2 370 -560 step = 9838
+D466 wire 2 370 -1026 step = 10304
+L726 wire 2 370 -1026 step = 10304
+  -Been here before 247 -1026 10427
+  -Been here before -161 -1026 10835
+L726 wire 2 -356 -1026 step = 11030
+D380 wire 2 -356 -1026 step = 11030
+D380 wire 2 -356 -1406 step = 11410
+R977 wire 2 -356 -1406 step = 11410
+  -Been here before 247 -1406 12013
+R977 wire 2 621 -1406 step = 12387
+D454 wire 2 621 -1406 step = 12387
+  -Been here before 621 -1818 12799
+D454 wire 2 621 -1860 step = 12841
+L318 wire 2 621 -1860 step = 12841
+L318 wire 2 303 -1860 step = 13159
+D397 wire 2 303 -1860 step = 13159
+D397 wire 2 303 -2257 step = 13556
+R994 wire 2 303 -2257 step = 13556
+R994 wire 2 1297 -2257 step = 14550
+U402 wire 2 1297 -2257 step = 14550
+U402 wire 2 1297 -1855 step = 14952
+L77 wire 2 1297 -1855 step = 14952
+L77 wire 2 1220 -1855 step = 15029
+U93 wire 2 1220 -1855 step = 15029
+  -Been here before 1220 -1818 15066
+U93 wire 2 1220 -1762 step = 15122
+L359 wire 2 1220 -1762 step = 15122
+L359 wire 2 861 -1762 step = 15481
+D72 wire 2 861 -1762 step = 15481
+  -Been here before 861 -1818 15537
+D72 wire 2 861 -1834 step = 15553
+R968 wire 2 861 -1834 step = 15553
+  -Been here before 1220 -1834 15912
+R968 wire 2 1829 -1834 step = 16521
+D956 wire 2 1829 -1834 step = 16521
+D956 wire 2 1829 -2790 step = 17477
+L174 wire 2 1829 -2790 step = 17477
+L174 wire 2 1655 -2790 step = 17651
+D22 wire 2 1655 -2790 step = 17651
+D22 wire 2 1655 -2812 step = 17673
+R218 wire 2 1655 -2812 step = 17673
+R218 wire 2 1873 -2812 step = 17891
+U619 wire 2 1873 -2812 step = 17891
+U619 wire 2 1873 -2193 step = 18510
+R593 wire 2 1873 -2193 step = 18510
+R593 wire 2 2466 -2193 step = 19103
+U32 wire 2 2466 -2193 step = 19103
+U32 wire 2 2466 -2161 step = 19135
+L154 wire 2 2466 -2161 step = 19135
+L154 wire 2 2312 -2161 step = 19289
+U55 wire 2 2312 -2161 step = 19289
+U55 wire 2 2312 -2106 step = 19344
+L169 wire 2 2312 -2106 step = 19344
+L169 wire 2 2143 -2106 step = 19513
+U415 wire 2 2143 -2106 step = 19513
+U415 wire 2 2143 -1691 step = 19928
+L171 wire 2 2143 -1691 step = 19928
+L171 wire 2 1972 -1691 step = 20099
+U666 wire 2 1972 -1691 step = 20099
+U666 wire 2 1972 -1025 step = 20765
+R617 wire 2 1972 -1025 step = 20765
+R617 wire 2 2589 -1025 step = 21382
+U109 wire 2 2589 -1025 step = 21382
+U109 wire 2 2589 -916 step = 21491
+L265 wire 2 2589 -916 step = 21491
+L265 wire 2 2324 -916 step = 21756
+U773 wire 2 2324 -916 step = 21756
+U773 wire 2 2324 -143 step = 22529
+R541 wire 2 2324 -143 step = 22529
+R541 wire 2 2865 -143 step = 23070
+D808 wire 2 2865 -143 step = 23070
+D808 wire 2 2865 -951 step = 23878
+L797 wire 2 2865 -951 step = 23878
+  -Been here before 2589 -951 24154
+L797 wire 2 2068 -951 step = 24675
+U478 wire 2 2068 -951 step = 24675
+U478 wire 2 2068 -473 step = 25153
+R731 wire 2 2068 -473 step = 25153
+  -Been here before 2324 -473 25409
+R731 wire 2 2799 -473 step = 25884
+U379 wire 2 2799 -473 step = 25884
+  -Been here before 2799 -143 26214
+U379 wire 2 2799 -94 step = 26263
+R311 wire 2 2799 -94 step = 26263
+R311 wire 2 3110 -94 step = 26574
+D137 wire 2 3110 -94 step = 26574
+D137 wire 2 3110 -231 step = 26711
+L806 wire 2 3110 -231 step = 26711
+  -Been here before 2865 -231 26956
+  -Been here before 2799 -231 27022
+  -Been here before 2324 -231 27497
+L806 wire 2 2304 -231 step = 27517
+U298 wire 2 2304 -231 step = 27517
+U298 wire 2 2304 67 step = 27815
+R362 wire 2 2304 67 step = 27815
+R362 wire 2 2666 67 step = 28177
+D458 wire 2 2666 67 step = 28177
+  -Been here before 2666 -143 28387
+  -Been here before 2666 -231 28475
+D458 wire 2 2666 -391 step = 28635
+L254 wire 2 2666 -391 step = 28635
+L254 wire 2 2412 -391 step = 28889
+D539 wire 2 2412 -391 step = 28889
+  -Been here before 2412 -473 28971
+  -Been here before 2412 -916 29414
+D539 wire 2 2412 -930 step = 29428
+R700 wire 2 2412 -930 step = 29428
+  -Been here before 2589 -930 29605
+  -Been here before 2865 -930 29881
+R700 wire 2 3112 -930 step = 30128
+U853 wire 2 3112 -930 step = 30128
+U853 wire 2 3112 -77 step = 30981
+R246 wire 2 3112 -77 step = 30981
+R246 wire 2 3358 -77 step = 31227
+D588 wire 2 3358 -77 step = 31227
+D588 wire 2 3358 -665 step = 31815
+L28 wire 2 3358 -665 step = 31815
+L28 wire 2 3330 -665 step = 31843
+U203 wire 2 3330 -665 step = 31843
+U203 wire 2 3330 -462 step = 32046
+L432 wire 2 3330 -462 step = 32046
+  -Been here before 3112 -462 32264
+L432 wire 2 2898 -462 step = 32478
+U946 wire 2 2898 -462 step = 32478
+  -Been here before 2898 -231 32709
+  -Been here before 2898 -94 32846
+U946 wire 2 2898 484 step = 33424
+R663 wire 2 2898 484 step = 33424
+R663 wire 2 3561 484 step = 34087
+D408 wire 2 3561 484 step = 34087
+D408 wire 2 3561 76 step = 34495
+R974 wire 2 3561 76 step = 34495
+R974 wire 2 4535 76 step = 35469
+U59 wire 2 4535 76 step = 35469
+U59 wire 2 4535 135 step = 35528
+L683 wire 2 4535 135 step = 35528
+L683 wire 2 3852 135 step = 36211
+D36 wire 2 3852 135 step = 36211
+D36 wire 2 3852 99 step = 36247
+L139 wire 2 3852 99 step = 36247
+L139 wire 2 3713 99 step = 36386
+U738 wire 2 3713 99 step = 36386
+U738 wire 2 3713 837 step = 37124
+L780 wire 2 3713 837 step = 37124
+L780 wire 2 2933 837 step = 37904
+U414 wire 2 2933 837 step = 37904
+U414 wire 2 2933 1251 step = 38318
+L401 wire 2 2933 1251 step = 38318
+L401 wire 2 2532 1251 step = 38719
+D93 wire 2 2532 1251 step = 38719
+D93 wire 2 2532 1158 step = 38812
+R212 wire 2 2532 1158 step = 38812
+R212 wire 2 2744 1158 step = 39024
+D973 wire 2 2744 1158 step = 39024
+D973 wire 2 2744 185 step = 39997
+L710 wire 2 2744 185 step = 39997
+L710 wire 2 2034 185 step = 40707
+U892 wire 2 2034 185 step = 40707
+U892 wire 2 2034 1077 step = 41599
+L357 wire 2 2034 1077 step = 41599
+L357 wire 2 1677 1077 step = 41956
+D177 wire 2 1677 1077 step = 41956
+D177 wire 2 1677 900 step = 42133
+R823 wire 2 1677 900 step = 42133
+  -Been here before 2034 900 42490
+R823 wire 2 2500 900 step = 42956
+D4 wire 2 2500 900 step = 42956
+D4 wire 2 2500 896 step = 42960
+R46 wire 2 2500 896 step = 42960
+R46 wire 2 2546 896 step = 43006
+D924 wire 2 2546 896 step = 43006
+  -Been here before 2546 185 43717
+  -Been here before 2546 67 43835
+D924 wire 2 2546 -28 step = 43930
+L235 wire 2 2546 -28 step = 43930
+L235 wire 2 2311 -28 step = 44165
+D898 wire 2 2311 -28 step = 44165
+  -Been here before 2311 -231 44368
+  -Been here before 2311 -473 44610
+D898 wire 2 2311 -926 step = 45063
+R67 wire 2 2311 -926 step = 45063
+R67 wire 2 2378 -926 step = 45130
+U220 wire 2 2378 -926 step = 45130
+  -Been here before 2378 -916 45140
+U220 wire 2 2378 -706 step = 45350
+L592 wire 2 2378 -706 step = 45350
+  -Been here before 2324 -706 45404
+  -Been here before 2311 -706 45417
+  -Been here before 2068 -706 45660
+L592 wire 2 1786 -706 step = 45942
+U87 wire 2 1786 -706 step = 45942
+U87 wire 2 1786 -619 step = 46029
+R94 wire 2 1786 -619 step = 46029
+R94 wire 2 1880 -619 step = 46123
+U584 wire 2 1880 -619 step = 46123
+U584 wire 2 1880 -35 step = 46707
+R979 wire 2 1880 -35 step = 46707
+  -Been here before 2304 -35 47131
+  -Been here before 2311 -35 47138
+  -Been here before 2666 -35 47493
+R979 wire 2 2859 -35 step = 47686
+D843 wire 2 2859 -35 step = 47686
+  -Been here before 2859 -94 47745
+  -Been here before 2859 -143 47794
+  -Been here before 2859 -231 47882
+D843 wire 2 2859 -878 step = 48529
+L299 wire 2 2859 -878 step = 48529
+L299 wire 2 2560 -878 step = 48828
+D648 wire 2 2560 -878 step = 48828
+  -Been here before 2560 -916 48866
+  -Been here before 2560 -930 48880
+  -Been here before 2560 -951 48901
+  -Been here before 2560 -1025 48975
+D648 wire 2 2560 -1526 step = 49476
+L491 wire 2 2560 -1526 step = 49476
+L491 wire 2 2069 -1526 step = 49967
+U360 wire 2 2069 -1526 step = 49967
+U360 wire 2 2069 -1166 step = 50327
+R824 wire 2 2069 -1166 step = 50327
+  -Been here before 2560 -1166 50818
+R824 wire 2 2893 -1166 step = 51151
+D245 wire 2 2893 -1166 step = 51151
+D245 wire 2 2893 -1411 step = 51396
+L944 wire 2 2893 -1411 step = 51396
+  -Been here before 2560 -1411 51729
+  -Been here before 2069 -1411 52220
+  -Been here before 1972 -1411 52317
+L944 wire 2 1949 -1411 step = 52340
+D24 wire 2 1949 -1411 step = 52340
+D24 wire 2 1949 -1435 step = 52364
+R616 wire 2 1949 -1435 step = 52364
+  -Been here before 1972 -1435 52387
+  -Been here before 2069 -1435 52484
+  -Been here before 2560 -1435 52975
+R616 wire 2 2565 -1435 step = 52980
+U975 wire 2 2565 -1435 step = 52980
+  -Been here before 2565 -1411 53004
+  -Been here before 2565 -1166 53249
+  -Been here before 2565 -1025 53390
+  -Been here before 2565 -951 53464
+  -Been here before 2565 -930 53485
+  -Been here before 2565 -916 53499
+  -Been here before 2565 -878 53537
+  -Been here before 2565 -473 53942
+U975 wire 2 2565 -460 step = 53955
+L4 wire 2 2565 -460 step = 53955
+L4 wire 2 2561 -460 step = 53959
+U42 wire 2 2561 -460 step = 53959
+U42 wire 2 2561 -418 step = 54001
+L984 wire 2 2561 -418 step = 54001
+  -Been here before 2412 -418 54150
+  -Been here before 2324 -418 54238
+  -Been here before 2311 -418 54251
+  -Been here before 1880 -418 54682
+L984 wire 2 1577 -418 step = 54985
+U181 wire 2 1577 -418 step = 54985
+U181 wire 2 1577 -237 step = 55166
+R902 wire 2 1577 -237 step = 55166
+  -Been here before 1880 -237 55469
+  -Been here before 2311 -237 55900
+  -Been here before 2324 -237 55913
+R902 wire 2 2479 -237 step = 56068
+D835 wire 2 2479 -237 step = 56068
+  -Been here before 2479 -391 56222
+  -Been here before 2479 -418 56249
+  -Been here before 2479 -473 56304
+  -Been here before 2479 -916 56747
+  -Been here before 2479 -930 56761
+  -Been here before 2479 -951 56782
+  -Been here before 2479 -1025 56856
+D835 wire 2 2479 -1072 step = 56903
+L687 wire 2 2479 -1072 step = 56903
+  -Been here before 1972 -1072 57410
+L687 wire 2 1792 -1072 step = 57590
+D413 wire 2 1792 -1072 step = 57590
+D413 wire 2 1792 -1485 step = 58003
+L767 wire 2 1792 -1485 step = 58003
+  -Been here before 1228 -1485 58567
+L767 wire 2 1025 -1485 step = 58770
+U632 wire 2 1025 -1485 step = 58770
+  -Been here before 1025 -1209 59046
+U632 wire 2 1025 -853 step = 59402
+L754 wire 2 1025 -853 step = 59402
+  -Been here before 370 -853 60057
+L754 wire 2 271 -853 step = 60156
+U270 wire 2 271 -853 step = 60156
+U270 wire 2 271 -583 step = 60426
+R413 wire 2 271 -583 step = 60426
+  -Been here before 370 -583 60525
+R413 wire 2 684 -583 step = 60839
+U51 wire 2 684 -583 step = 60839
+U51 wire 2 684 -532 step = 60890
+L825 wire 2 684 -532 step = 60890
+L825 wire 2 -141 -532 step = 61715
+D377 wire 2 -141 -532 step = 61715
+  -Been here before -141 -560 61743
+  -Been here before -141 -861 62044
+D377 wire 2 -141 -909 step = 62092
+L596 wire 2 -141 -909 step = 62092
+  -Been here before -161 -909 62112
+L596 wire 2 -737 -909 step = 62688
+U960 wire 2 -737 -909 step = 62688
+  -Been here before -737 -381 63216
+  -Been here before -737 0 63597
+U960 wire 2 -737 51 step = 63648
+L378 wire 2 -737 51 step = 63648
+L378 wire 2 -1115 51 step = 64026
+U706 wire 2 -1115 51 step = 64026
+U706 wire 2 -1115 757 step = 64732
+L859 wire 2 -1115 757 step = 64732
+L859 wire 2 -1974 757 step = 65591
+D708 wire 2 -1974 757 step = 65591
+D708 wire 2 -1974 49 step = 66299
+L156 wire 2 -1974 49 step = 66299
+L156 wire 2 -2130 49 step = 66455
+D991 wire 2 -2130 49 step = 66455
+D991 wire 2 -2130 -942 step = 67446
+L814 wire 2 -2130 -942 step = 67446
+L814 wire 2 -2944 -942 step = 68260
+U351 wire 2 -2944 -942 step = 68260
+U351 wire 2 -2944 -591 step = 68611
+R923 wire 2 -2944 -591 step = 68611
+  -Been here before -2130 -591 69425
+R923 wire 2 -2021 -591 step = 69534
+D749 wire 2 -2021 -591 step = 69534
+D749 wire 2 -2021 -1340 step = 70283
+L16 wire 2 -2021 -1340 step = 70283
+L16 wire 2 -2037 -1340 step = 70299
+D651 wire 2 -2037 -1340 step = 70299
+D651 wire 2 -2037 -1991 step = 70950
+R20 wire 2 -2037 -1991 step = 70950
+R20 wire 2 -2017 -1991 step = 70970
+D86 wire 2 -2017 -1991 step = 70970
+D86 wire 2 -2017 -2077 step = 71056
+R801 wire 2 -2017 -2077 step = 71056
+R801 wire 2 -1216 -2077 step = 71857
+U811 wire 2 -1216 -2077 step = 71857
+U811 wire 2 -1216 -1266 step = 72668
+L228 wire 2 -1216 -1266 step = 72668
+L228 wire 2 -1444 -1266 step = 72896
+U161 wire 2 -1444 -1266 step = 72896
+U161 wire 2 -1444 -1105 step = 73057
+L871 wire 2 -1444 -1105 step = 73057
+  -Been here before -2021 -1105 73634
+L871 wire 2 -2315 -1105 step = 73928
+U129 wire 2 -2315 -1105 step = 73928
+U129 wire 2 -2315 -976 step = 74057
+R215 wire 2 -2315 -976 step = 74057
+R215 wire 2 -2100 -976 step = 74272
+U235 wire 2 -2100 -976 step = 74272
+U235 wire 2 -2100 -741 step = 74507
+L784 wire 2 -2100 -741 step = 74507
+  -Been here before -2130 -741 74537
+L784 wire 2 -2884 -741 step = 75291
+U896 wire 2 -2884 -741 step = 75291
+  -Been here before -2884 -591 75441
+U896 wire 2 -2884 155 step = 76187
+R94 wire 2 -2884 155 step = 76187
+R94 wire 2 -2790 155 step = 76281
+U145 wire 2 -2790 155 step = 76281
+U145 wire 2 -2790 300 step = 76426
+R822 wire 2 -2790 300 step = 76426
+  -Been here before -1974 300 77242
+R822 wire 2 -1968 300 step = 77248
+U494 wire 2 -1968 300 step = 77248
+  -Been here before -1968 757 77705
+U494 wire 2 -1968 794 step = 77742
+R248 wire 2 -1968 794 step = 77742
+R248 wire 2 -1720 794 step = 77990
+D98 wire 2 -1720 794 step = 77990
+  -Been here before -1720 757 78027
+D98 wire 2 -1720 696 step = 78088
+R494 wire 2 -1720 696 step = 78088
+R494 wire 2 -1226 696 step = 78582
+U156 wire 2 -1226 696 step = 78582
+  -Been here before -1226 757 78643
+U156 wire 2 -1226 852 step = 78738
+L495 wire 2 -1226 852 step = 78738
+L495 wire 2 -1721 852 step = 79233
+U311 wire 2 -1721 852 step = 79233
+U311 wire 2 -1721 1163 step = 79544
+R66 wire 2 -1721 1163 step = 79544
+R66 wire 2 -1655 1163 step = 79610
+D873 wire 2 -1655 1163 step = 79610
+  -Been here before -1655 852 79921
+  -Been here before -1655 757 80016
+  -Been here before -1655 696 80077
+D873 wire 2 -1655 290 step = 80483
+L294 wire 2 -1655 290 step = 80483
+L294 wire 2 -1949 290 step = 80777
+D620 wire 2 -1949 290 step = 80777
+D620 wire 2 -1949 -330 step = 81397
+L885 wire 2 -1949 -330 step = 81397
+  -Been here before -2130 -330 81578
+L885 wire 2 -2834 -330 step = 82282
+U395 wire 2 -2834 -330 step = 82282
+U395 wire 2 -2834 65 step = 82677
+R778 wire 2 -2834 65 step = 82677
+R778 wire 2 -2056 65 step = 83455
+D227 wire 2 -2056 65 step = 83455
+  -Been here before -2056 49 83471
+D227 wire 2 -2056 -162 step = 83682
+R966 wire 2 -2056 -162 step = 83682
+  -Been here before -1949 -162 83789
+R966 wire 2 -1090 -162 step = 84648
+U756 wire 2 -1090 -162 step = 84648
+  -Been here before -1090 51 84861
+U756 wire 2 -1090 594 step = 85404
+L694 wire 2 -1090 594 step = 85404
+  -Been here before -1115 594 85429
+  -Been here before -1655 594 85969
+L694 wire 2 -1784 594 step = 86098
+D707 wire 2 -1784 594 step = 86098
+  -Been here before -1784 290 86402
+D707 wire 2 -1784 -113 step = 86805
+R983 wire 2 -1784 -113 step = 86805
+  -Been here before -1090 -113 87499
+  -Been here before -1009 -113 87580
+R983 wire 2 -801 -113 step = 87788
+D950 wire 2 -801 -113 step = 87788
+  -Been here before -801 -381 88056
+D950 wire 2 -801 -1063 step = 88738
+R706 wire 2 -801 -1063 step = 88738
+  -Been here before -356 -1063 89183
+  -Been here before -161 -1063 89378
+R706 wire 2 -95 -1063 step = 89444
+D730 wire 2 -95 -1063 step = 89444
+  -Been here before -95 -1348 89729
+  -Been here before -95 -1406 89787
+D730 wire 2 -95 -1793 step = 90174
+R415 wire 2 -95 -1793 step = 90174
+  -Been here before 247 -1793 90516
+R415 wire 2 320 -1793 step = 90589
+U886 wire 2 320 -1793 step = 90589
+  -Been here before 320 -1406 90976
+  -Been here before 320 -1348 91034
+  -Been here before 320 -1026 91356
+U886 wire 2 320 -907 step = 91475
+L465 wire 2 320 -907 step = 91475
+  -Been here before 247 -907 91548
+  -Been here before -141 -907 91936
+L465 wire 2 -145 -907 step = 91940
+D622 wire 2 -145 -907 step = 91940
+  -Been here before -145 -909 91942
+  -Been here before -145 -1026 92059
+  -Been here before -145 -1063 92096
+  -Been here before -145 -1180 92213
+  -Been here before -145 -1406 92439
+D622 wire 2 -145 -1529 step = 92562
+L13 wire 2 -145 -1529 step = 92562
+L13 wire 2 -158 -1529 step = 92575
+D938 wire 2 -158 -1529 step = 92575
+D938 wire 2 -158 -2467 step = 93513
+R324 wire 2 -158 -2467 step = 93513
+R324 wire 2 166 -2467 step = 93837
+D464 wire 2 166 -2467 step = 93837
+D464 wire 2 166 -2931 step = 94301
+R723 wire 2 166 -2931 step = 94301
+R723 wire 2 889 -2931 step = 95024
+U804 wire 2 889 -2931 step = 95024
+  -Been here before 889 -2257 95698
+U804 wire 2 889 -2127 step = 95828
+R942 wire 2 889 -2127 step = 95828
+  -Been here before 1297 -2127 96236
+  -Been here before 1829 -2127 96768
+R942 wire 2 1831 -2127 step = 96770
+D635 wire 2 1831 -2127 step = 96770
+D635 wire 2 1831 -2762 step = 97405
+L729 wire 2 1831 -2762 step = 97405
+  -Been here before 1829 -2762 97407
+L729 wire 2 1102 -2762 step = 98134
+D317 wire 2 1102 -2762 step = 98134
+D317 wire 2 1102 -3079 step = 98451
+L522 wire 2 1102 -3079 step = 98451
+L522 wire 2 580 -3079 step = 98973
+U469 wire 2 580 -3079 step = 98973
+  -Been here before 580 -2931 99121
+U469 wire 2 580 -2610 step = 99442
+R550 wire 2 580 -2610 step = 99442
+  -Been here before 889 -2610 99751
+R550 wire 2 1130 -2610 step = 99992
+D141 wire 2 1130 -2610 step = 99992
+D141 wire 2 1130 -2751 step = 100133
+R302 wire 2 1130 -2751 step = 100133
+R302 wire 2 1432 -2751 step = 100435
+U999 wire 2 1432 -2751 step = 100435
+  -Been here before 1432 -2127 101059
+  -Been here before 1432 -1834 101352
+U999 wire 2 1432 -1752 step = 101434
+L642 wire 2 1432 -1752 step = 101434
+  -Been here before 1228 -1752 101638
+L642 wire 2 790 -1752 step = 102076
+U509 wire 2 790 -1752 step = 102076
+U509 wire 2 790 -1243 step = 102585
+R431 wire 2 790 -1243 step = 102585
+  -Been here before 1025 -1243 102820
+R431 wire 2 1221 -1243 step = 103016
+D380 wire 2 1221 -1243 step = 103016
+  -Been here before 1221 -1485 103258
+D380 wire 2 1221 -1623 step = 103396
+R18 wire 2 1221 -1623 step = 103396
+  -Been here before 1228 -1623 103403
+R18 wire 2 1239 -1623 step = 103414
+D676 wire 2 1239 -1623 step = 103414
+  -Been here before 1239 -1752 103543
+  -Been here before 1239 -1834 103625
+  -Been here before 1239 -1855 103646
+  -Been here before 1239 -2127 103918
+  -Been here before 1239 -2257 104048
+D676 wire 2 1239 -2299 step = 104090
+R449 wire 2 1239 -2299 step = 104090
+  -Been here before 1432 -2299 104283
+R449 wire 2 1688 -2299 step = 104539
+D759 wire 2 1688 -2299 step = 104539
+  -Been here before 1688 -2762 105002
+  -Been here before 1688 -2790 105030
+  -Been here before 1688 -2812 105052
+D759 wire 2 1688 -3058 step = 105298
+L495 wire 2 1688 -3058 step = 105298
+L495 wire 2 1193 -3058 step = 105793
+U901 wire 2 1193 -3058 step = 105793
+  -Been here before 1193 -2762 106089
+  -Been here before 1193 -2751 106100
+  -Been here before 1193 -2257 106594
+U901 wire 2 1193 -2157 step = 106694
+R1 wire 2 1193 -2157 step = 106694
+R1 wire 2 1194 -2157 step = 106695
+D745 wire 2 1194 -2157 step = 106695
+  -Been here before 1194 -2257 106795
+  -Been here before 1194 -2751 107289
+  -Been here before 1194 -2762 107300
+D745 wire 2 1194 -2902 step = 107440
+L655 wire 2 1194 -2902 step = 107440
+  -Been here before 1193 -2902 107441
+  -Been here before 1102 -2902 107532
+  -Been here before 889 -2902 107745
+  -Been here before 580 -2902 108054
+L655 wire 2 539 -2902 step = 108095
+U449 wire 2 539 -2902 step = 108095
+U449 wire 2 539 -2453 step = 108544
+L439 wire 2 539 -2453 step = 108544
+L439 wire 2 100 -2453 step = 108983
+D818 wire 2 100 -2453 step = 108983
+  -Been here before 100 -2467 108997
+D818 wire 2 100 -3271 step = 109801
+R55 wire 2 100 -3271 step = 109801
+R55 wire 2 155 -3271 step = 109856
+D541 wire 2 155 -3271 step = 109856
+D541 wire 2 155 -3812 step = 110397
+R420 wire 2 155 -3812 step = 110397
+R420 wire 2 575 -3812 step = 110817
+U764 wire 2 575 -3812 step = 110817
+U764 wire 2 575 -3048 step = 111581
+L426 wire 2 575 -3048 step = 111581
+L426 wire 2 149 -3048 step = 112007
+D176 wire 2 149 -3048 step = 112007
+D176 wire 2 149 -3224 step = 112183
+L520 wire 2 149 -3224 step = 112183
+  -Been here before 100 -3224 112232
+L520 wire 2 -371 -3224 step = 112703
+U3 wire 2 -371 -3224 step = 112703
+U3 wire 2 -371 -3221 step = 112706
+L663 wire 2 -371 -3221 step = 112706
+L663 wire 2 -1034 -3221 step = 113369
+D221 wire 2 -1034 -3221 step = 113369
+D221 wire 2 -1034 -3442 step = 113590
+L80 wire 2 -1034 -3442 step = 113590
+L80 wire 2 -1114 -3442 step = 113670
+D449 wire 2 -1114 -3442 step = 113670
+D449 wire 2 -1114 -3891 step = 114119
+L987 wire 2 -1114 -3891 step = 114119
+L987 wire 2 -2101 -3891 step = 115106
+U349 wire 2 -2101 -3891 step = 115106
+U349 wire 2 -2101 -3542 step = 115455
+L71 wire 2 -2101 -3542 step = 115455
+L71 wire 2 -2172 -3542 step = 115526
+U632 wire 2 -2172 -3542 step = 115526
+U632 wire 2 -2172 -2910 step = 116158
+L887 wire 2 -2172 -2910 step = 116158
+L887 wire 2 -3059 -2910 step = 117045
+D231 wire 2 -3059 -2910 step = 117045
+D231 wire 2 -3059 -3141 step = 117276
+R655 wire 2 -3059 -3141 step = 117276
+R655 wire 2 -2404 -3141 step = 117931
+D208 wire 2 -2404 -3141 step = 117931
+D208 wire 2 -2404 -3349 step = 118139
+R698 wire 2 -2404 -3349 step = 118139
+  -Been here before -2172 -3349 118371
+R698 wire 2 -1706 -3349 step = 118837
+D639 wire 2 -1706 -3349 step = 118837
+  -Been here before -1706 -3891 119379
+D639 wire 2 -1706 -3988 step = 119476
+R804 wire 2 -1706 -3988 step = 119476
+R804 wire 2 -902 -3988 step = 120280
+U616 wire 2 -902 -3988 step = 120280
+U616 wire 2 -902 -3372 step = 120896
+R532 wire 2 -902 -3372 step = 120896
+R532 wire 2 -370 -3372 step = 121428
+U846 wire 2 -370 -3372 step = 121428
+  -Been here before -370 -3224 121576
+U846 wire 2 -370 -2526 step = 122274
+R363 wire 2 -370 -2526 step = 122274
+R363 wire 2 -7 -2526 step = 122637
+D141 wire 2 -7 -2526 step = 122637
+D141 wire 2 -7 -2667 step = 122778
+R659 wire 2 -7 -2667 step = 122778
+  -Been here before 100 -2667 122885
+  -Been here before 166 -2667 122951
+  -Been here before 539 -2667 123324
+  -Been here before 580 -2667 123365
+R659 wire 2 652 -2667 step = 123437
+U470 wire 2 652 -2667 step = 123437
+  -Been here before 652 -2610 123494
+  -Been here before 652 -2257 123847
+U470 wire 2 652 -2197 step = 123907
+L798 wire 2 652 -2197 step = 123907
+  -Been here before 303 -2197 124256
+L798 wire 2 -146 -2197 step = 124705
+U144 wire 2 -146 -2197 step = 124705
+U144 wire 2 -146 -2053 step = 124849
+L675 wire 2 -146 -2053 step = 124849
+  -Been here before -158 -2053 124861
+L675 wire 2 -821 -2053 step = 125524
+U483 wire 2 -821 -2053 step = 125524
+U483 wire 2 -821 -1570 step = 126007
+L944 wire 2 -821 -1570 step = 126007
+  -Been here before -1216 -1570 126402
+L944 wire 2 -1765 -1570 step = 126951
+U380 wire 2 -1765 -1570 step = 126951
+U380 wire 2 -1765 -1190 step = 127331
+L329 wire 2 -1765 -1190 step = 127331
+  -Been here before -2021 -1190 127587
+L329 wire 2 -2094 -1190 step = 127660
+U72 wire 2 -2094 -1190 step = 127660
+U72 wire 2 -2094 -1118 step = 127732
+L894 wire 2 -2094 -1118 step = 127732
+L894 wire 2 -2988 -1118 step = 128626
+D130 wire 2 -2988 -1118 step = 128626
+D130 wire 2 -2988 -1248 step = 128756
+R53 wire 2 -2988 -1248 step = 128756
+R53 wire 2 -2935 -1248 step = 128809
+U109 wire 2 -2935 -1248 step = 128809
+U109 wire 2 -2935 -1139 step = 128918
+R610 wire 2 -2935 -1139 step = 128918
+R610 wire 2 -2325 -1139 step = 129528
+U770 wire 2 -2325 -1139 step = 129528
+  -Been here before -2325 -1118 129549
+  -Been here before -2325 -942 129725
+  -Been here before -2325 -741 129926
+  -Been here before -2325 -591 130076
+U770 wire 2 -2325 -369 step = 130298
+R778 wire 2 -2325 -369 step = 130298
+  -Been here before -2130 -369 130493
+R778 wire 2 -1547 -369 step = 131076
+U493 wire 2 -1547 -369 step = 131076
+  -Been here before -1547 -162 131283
+  -Been here before -1547 -113 131332
+U493 wire 2 -1547 124 step = 131569
+R972 wire 2 -1547 124 step = 131569
+  -Been here before -1115 124 132001
+  -Been here before -1090 124 132026
+R972 wire 2 -575 124 step = 132541
+D340 wire 2 -575 124 step = 132541
+  -Been here before -575 0 132665
+D340 wire 2 -575 -216 step = 132881
+L866 wire 2 -575 -216 step = 132881
+  -Been here before -737 -216 133043
+  -Been here before -801 -216 133107
+  -Been here before -1009 -216 133315
+L866 wire 2 -1441 -216 step = 133747
+U980 wire 2 -1441 -216 step = 133747
+  -Been here before -1441 -162 133801
+  -Been here before -1441 -113 133850
+  -Been here before -1441 124 134087
+  -Been here before -1441 594 134557
+  -Been here before -1441 696 134659
+  -Been here before -1441 757 134720
+U980 wire 2 -1441 764 step = 134727
+L305 wire 2 -1441 764 step = 134727
+  -Been here before -1655 764 134941
+  -Been here before -1720 764 135006
+L305 wire 2 -1746 764 step = 135032
+D812 wire 2 -1746 764 step = 135032
+  -Been here before -1746 757 135039
+  -Been here before -1746 594 135202
+  -Been here before -1746 290 135506
+D812 wire 2 -1746 -48 step = 135844
+R130 wire 2 -1746 -48 step = 135844
+R130 wire 2 -1616 -48 step = 135974
+D954 wire 2 -1616 -48 step = 135974
+  -Been here before -1616 -113 136039
+  -Been here before -1616 -162 136088
+  -Been here before -1616 -369 136295
+D954 wire 2 -1616 -1002 step = 136928
+R253 wire 2 -1616 -1002 step = 136928
+R253 wire 2 -1363 -1002 step = 137181
+D33 wire 2 -1363 -1002 step = 137181
+D33 wire 2 -1363 -1035 step = 137214
+L912 wire 2 -1363 -1035 step = 137214
+  -Been here before -2021 -1035 137872
+L912 wire 2 -2275 -1035 step = 138126
+U950 wire 2 -2275 -1035 step = 138126
+  -Been here before -2275 -976 138185
+  -Been here before -2275 -942 138219
+  -Been here before -2275 -741 138420
+  -Been here before -2275 -591 138570
+  -Been here before -2275 -369 138792
+  -Been here before -2275 -330 138831
+U950 wire 2 -2275 -85 step = 139076
+L438 wire 2 -2275 -85 step = 139076
+L438 wire 2 -2713 -85 step = 139514
+D680 wire 2 -2713 -85 step = 139514
+  -Been here before -2713 -330 139759
+  -Been here before -2713 -591 140020
+  -Been here before -2713 -741 140170
+D680 wire 2 -2713 -765 step = 140194
+R891 wire 2 -2713 -765 step = 140194
+  -Been here before -2325 -765 140582
+  -Been here before -2275 -765 140632
+  -Been here before -2130 -765 140777
+  -Been here before -2100 -765 140807
+  -Been here before -2021 -765 140886
+R891 wire 2 -1822 -765 step = 141085
+U725 wire 2 -1822 -765 step = 141085
+  -Been here before -1822 -369 141481
+  -Been here before -1822 -162 141688
+U725 wire 2 -1822 -40 step = 141810
+R171 wire 2 -1822 -40 step = 141810
+  -Been here before -1784 -40 141848
+  -Been here before -1746 -40 141886
+R171 wire 2 -1651 -40 step = 141981
+D587 wire 2 -1651 -40 step = 141981
+  -Been here before -1651 -48 141989
+  -Been here before -1651 -113 142054
+  -Been here before -1651 -162 142103
+  -Been here before -1651 -369 142310
+D587 wire 2 -1651 -627 step = 142568
+R549 wire 2 -1651 -627 step = 142568
+  -Been here before -1616 -627 142603
+R549 wire 2 -1102 -627 step = 143117
+D367 wire 2 -1102 -627 step = 143117
+D367 wire 2 -1102 -994 step = 143484
+L4 wire 2 -1102 -994 step = 143484
+L4 wire 2 -1106 -994 step = 143488
+U313 wire 2 -1106 -994 step = 143488
+U313 wire 2 -1106 -681 step = 143801
+R522 wire 2 -1106 -681 step = 143801
+  -Been here before -1102 -681 143805
+  -Been here before -801 -681 144106
+  -Been here before -737 -681 144170
+R522 wire 2 -584 -681 step = 144323
+D128 wire 2 -584 -681 step = 144323
+D128 wire 2 -584 -809 step = 144451
+L711 wire 2 -584 -809 step = 144451
+  -Been here before -737 -809 144604
+  -Been here before -801 -809 144668
+  -Been here before -1102 -809 144969
+  -Been here before -1106 -809 144973
+L711 wire 2 -1295 -809 step = 145162
+D405 wire 2 -1295 -809 step = 145162
+D405 wire 2 -1295 -1214 step = 145567
+L769 wire 2 -1295 -1214 step = 145567
+  -Been here before -1444 -1214 145716
+  -Been here before -1765 -1214 146037
+  -Been here before -2021 -1214 146293
+L769 wire 2 -2064 -1214 step = 146336
+D496 wire 2 -2064 -1214 step = 146336
+D496 wire 2 -2064 -1710 step = 146832
+L527 wire 2 -2064 -1710 step = 146832
+L527 wire 2 -2591 -1710 step = 147359
+U373 wire 2 -2591 -1710 step = 147359
+U373 wire 2 -2591 -1337 step = 147732
+R725 wire 2 -2591 -1337 step = 147732
+  -Been here before -2064 -1337 148259
+  -Been here before -2021 -1337 148302
+R725 wire 2 -1866 -1337 step = 148457
+D261 wire 2 -1866 -1337 step = 148457
+D261 wire 2 -1866 -1598 step = 148718
+L268 wire 2 -1866 -1598 step = 148718
+  -Been here before -2037 -1598 148889
+  -Been here before -2064 -1598 148916
+L268 wire 2 -2134 -1598 step = 148986
+D939 wire 2 -2134 -1598 step = 148986
+  -Been here before -2134 -1710 149098
+D939 wire 2 -2134 -2537 step = 149925
+L902 wire 2 -2134 -2537 step = 149925
+L902 wire 2 -3036 -2537 step = 150827
+D58 wire 2 -3036 -2537 step = 150827
+D58 wire 2 -3036 -2595 step = 150885
+L858 wire 2 -3036 -2595 step = 150885
+L858 wire 2 -3894 -2595 step = 151743
+D190 wire 2 -3894 -2595 step = 151743
+D190 wire 2 -3894 -2785 step = 151933
+L442 wire 2 -3894 -2785 step = 151933
+L442 wire 2 -4336 -2785 step = 152375
+Done wire 2
+Cross at 2394 -418 = 124778 54168 
+Cross at 2394 -143 = 125053 22599 
+Cross at 2394 -473 = 124723 25479 
+Cross at 2394 -231 = 124965 27427 
+Cross at 2394 -237 = 124959 55983 
+Cross at -141 -577 = 98356 61760 
+Cross at 2034 512 = 128730 41034 
+Cross at 2034 235 = 7109 40757 
+Shortest = 47866
+Cross at 2034 1062 = 129410 41584 
+Cross at 2034 293 = 7571 40815 
+Cross at 2034 537 = 6685 41059 
+Shortest = 47744
+Cross at -1441 -71 = 109586 133892 
+Cross at -1441 383 = 106064 134346 
+Cross at 2532 1244 = 4816 38726 
+Shortest = 43542
+Cross at 2532 1189 = 51431 38781 
+Cross at 2744 293 = 8281 39889 
+Cross at -1547 -71 = 109692 131374 
+Cross at -1651 -71 = 109796 142012 
+Cross at -1651 -436 = 110237 142377 
+Cross at 1885 -35 = 123718 46712 
+Cross at 1885 -418 = 124101 54677 
+Cross at 1885 -237 = 123920 55474 
+Cross at -1384 124 = 107614 131732 
+Cross at 2304 -146 = 126934 27602 
+Cross at 2304 -108 = 125178 27640 
+Cross at 2304 -59 = 126515 27689 
+Cross at 320 -1290 = 114762 91092 
+Cross at -1616 -71 = 109761 135997 
+Cross at -1616 -436 = 110272 136362 
+Cross at -95 -1290 = 114347 89671 
+Cross at -1974 502 = 103868 65846 
+Cross at -145 -1290 = 114297 92323 
+Cross at 2933 1189 = 51832 38256 
+Cross at 2933 1024 = 9201 38091 
+Cross at -1655 502 = 104187 80271 
+Cross at -381 -1063 = 117550 89158 
+Cross at -884 124 = 106880 132232 
+Cross at -884 51 = 106953 63795 
+Cross at 247 -1290 = 114689 4873 
+Cross at -1474 124 = 105772 131642 
+Cross at -1474 -113 = 105535 87115 
+Cross at -1474 -162 = 105486 84264 
+Cross at -1087 124 = 109037 132029 
+Cross at -1087 51 = 109110 63998 
+Cross at 1697 1077 = 129762 41936 
+Cross at -517 -909 = 113544 62468 
+Cross at -517 -1063 = 113698 89022 
+Cross at -1746 502 = 104096 135294 
+Cross at -1115 378 = 100285 64353 
+Cross at -1115 377 = 108136 64352 
+Cross at -1115 383 = 106390 64358 
+Cross at -1090 378 = 100260 85188 
+Cross at -1090 7 = 107203 84817 
+Cross at -1090 -71 = 109235 84739 
+Cross at -1090 377 = 108161 85187 
+Cross at -1090 383 = 106415 85193 
+Cross at -269 -170 = 118555 3237 
+Cross at -269 -577 = 98484 3644 
+Cross at -269 -442 = 116237 3509 
+Cross at -340 -381 = 118273 2059 
+Cross at -340 -909 = 117745 62291 
+Cross at -318 -909 = 116753 62269 
+Cross at -318 -1063 = 116907 89221 
+Cross at -318 -1026 = 116870 10992 
+Cross at 2546 293 = 8083 43609 
+Cross at 4530 76 = 12168 35464 
+Cross at 4530 135 = 12109 35533 
+Cross at 2099 900 = 129183 42555 
+Cross at -1592 -369 = 105121 131031 
+Cross at -1592 -113 = 104865 86997 
+Cross at -1592 -162 = 104914 84146 
+Cross at 1880 -108 = 125602 46634 
+Cross at 1880 -146 = 127358 46596 
+Cross at 1880 -59 = 126091 46683 
+Cross at 3640 837 = 10095 37197 
+Cross at -113 -1290 = 114329 8529 
+Cross at 28 -560 = 98170 9496 
+Cross at 28 -532 = 98142 61546 
+Cross at 2311 -108 = 125171 44245 
+Cross at 2311 -502 = 124611 44639 
+Cross at 2311 -146 = 126927 44283 
+Cross at 2311 -59 = 126522 44196 
+Cross at -1374 594 = 100760 85688 
+Cross at -1374 757 = 100923 64991 
+Cross at -1374 852 = 101018 78886 
+Cross at -1374 696 = 100862 78434 
+Cross at -161 -577 = 98376 9290 
+Cross at 3713 276 = 10729 36563 
+Cross at -39 -170 = 118785 2571 
+Cross at -803 -216 = 111305 133109 
+Cross at -803 -381 = 111140 1596 
+Cross at 2068 -502 = 124368 25124 
+Cross at 339 -560 = 115511 9807 
+Cross at 339 -532 = 115539 61235 
+Cross at 339 -853 = 115218 60088 
+Cross at 339 -583 = 115488 60494 
+Cross at 339 -1026 = 115045 10335 
+Cross at -1968 502 = 103874 77450 
+Cross at 1702 1077 = 5813 41931 
+Cross at 1702 900 = 5990 42158 
+Cross at -1784 502 = 104058 86190 
+Cross at -1274 -216 = 111814 133580 
+Cross at 2667 1251 = 4674 38584 
+Shortest = 43258
+Cross at -1689 -162 = 109925 84049 
+Cross at -1689 -369 = 110132 130934 
+Cross at -1689 -113 = 109876 86900 
+Cross at -1009 -197 = 111530 1206 
+Cross at -801 -577 = 99016 88252 
+Cross at -801 -597 = 112948 88272 
+Cross at 2470 -143 = 126765 22675 
+Cross at -356 -1353 = 117235 11357 
+Cross at -356 -1290 = 114086 11294 
+Cross at 2324 -502 = 124624 22170 
+Cross at 2324 -146 = 126914 22526 
+Cross at -968 124 = 99884 132148 
+Cross at -968 0 = 99760 968 
+Cross at -968 51 = 99811 63879 
+Cross at -968 -113 = 99647 87621 
+Cross at -968 -381 = 99379 1431 
+Cross at -968 -216 = 99544 133274 
+Cross at -737 -577 = 98952 63020 
+Cross at -737 -597 = 113012 63000 
