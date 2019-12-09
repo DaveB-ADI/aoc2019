@@ -1,25 +1,11 @@
 #!/usr/local/bin/perl -w
 
 use strict;
-use LWP::Simple;
-
-my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = localtime(time);
-$mon = $mon+1; $year = $year - 100;
-if ($mon < 10) { $mon = "0" . $mon; }
-if ($mday < 10) { $mday = "0" . $mday; }
-if ($hour < 10) { $hour = "0" . $hour; }
-if ($min < 10) { $min = "0" . $min; }
-if ($sec < 10) { $sec = "0" . $sec; }
-my $currentdate = "${year}${mon}${mday}_${hour}${min}${sec}";
-
-my $htmlgraphdate = "${mon}${mday}$year";
-
 ########################################################################
 # Parse date files and update summary data file
 ######### ###############################################################
 open(INPUT, "<input.txt");
 
-my $total;
 my @letters;
 my @test;
 my $rel_base = 0;
